@@ -1,4 +1,4 @@
-namespace MVC.VerticalSlices.Models
+namespace MVC.VerticalSlices.Features.Home
 {
     public class ErrorViewModel
     {

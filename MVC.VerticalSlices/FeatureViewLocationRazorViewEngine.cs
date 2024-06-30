@@ -10,7 +10,7 @@ namespace MVC.VerticalSlices
 
         public FeatureFolderViewLocationExpander()
         {
-            FeatureLocations = ["~/Features/{1}/{0}.cshtml", "~/Features/Shared/Views/{0}.cshtml"];
+            FeatureLocations = ["~/Features/{1}/{0}.cshtml", "~/Features/Shared/{0}.cshtml"];
         }
 
 

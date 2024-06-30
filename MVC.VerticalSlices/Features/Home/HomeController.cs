@@ -1,8 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using MVC.VerticalSlices.Models;
 using System.Diagnostics;
 
-namespace MVC.VerticalSlices.Features.Home.Controllers;
+namespace MVC.VerticalSlices.Features.Home;
 
 public class HomeController : Controller
 {
